@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^4.4.1",
     "linear-solve": "^1.2.1",
-    "mathjs": "^6.2.5",
+    "mathjs": "^7.5.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
